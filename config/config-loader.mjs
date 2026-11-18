@@ -40,7 +40,7 @@ function loadMasterConfig() {
             auth: {
                 enabled: true,
                 username: 'admin',
-                password: '654321',  // 🔥 修改这里设置自定义密码
+                password: 'koulin',  // 🔥 修改这里设置自定义密码
                 sessionDuration: 90 * 24 * 60 * 60 * 1000,
                 maxLoginAttempts: 5,
                 lockoutDuration: 30 * 60 * 1000
